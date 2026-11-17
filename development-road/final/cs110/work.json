@@ -4,13 +4,13 @@
   "name": "Paulina Ramirez",
   "work": {
     "project": "A story worth playing",
-    "path": "explore",
+    "path": "learning",
     "selected": [
-      "save",
-      "inventory",
-      "search",
-      "access",
-      "branch"
+      "branch",
+      "modular",
+      "tests",
+      "external",
+      "defense"
     ],
     "engine": "Unity / C#",
     "gitEvidence": "Created a file and opened it. Opened the file which is currently empty.",
