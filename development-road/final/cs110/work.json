@@ -4,9 +4,9 @@
   "name": "Paulina Ramirez",
   "work": {
     "project": "A story worth playing",
-    "path": "story",
+    "path": "explore",
     "selected": [
-      "save"
+      "inventory"
     ],
     "engine": "Unity / C#",
     "gitEvidence": "Created a file and opened it. Opened the file which is currently empty.",
