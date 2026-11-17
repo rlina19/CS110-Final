@@ -27,21 +27,21 @@
     "board": {
       "nodes": [
         {
-          "id": "6d52ff63-0d47-452b-bcfa-77c289b767e5",
+          "id": "c8e09bfb-9d2b-4583-a34d-1cb65c9f9abc",
           "kind": "box",
           "x": 0,
-          "y": 91.29631245148448,
-          "w": 233.42590669392462,
-          "h": 112.62442907648142,
-          "text": "Goal: working projectWorking program",
+          "y": 53.3333333333328,
+          "w": 157.50000000000023,
+          "h": 69.48567708333417,
+          "text": "Goal: working project:Run a workingprogram that",
           "owner": "",
           "due": "",
           "description": ""
         },
         {
-          "id": "baffc604-1776-4f51-acbd-3bb50f1b6380",
+          "id": "7a18e79a-0023-45cb-b4a3-fbdd612baba2",
           "kind": "box",
-          "x": 205.37035633997698,
+          "x": 210,
           "y": 170,
           "w": 150,
           "h": 70,
@@ -51,7 +51,7 @@
           "description": ""
         },
         {
-          "id": "9222ac4b-ca5f-4c7e-920f-f8c62990440e",
+          "id": "b5882d77-3d39-4d99-a0c4-99b53a4a086b",
           "kind": "box",
           "x": 400,
           "y": 170,
@@ -63,7 +63,7 @@
           "description": ""
         },
         {
-          "id": "6a9694d8-8444-4ebd-8b44-f5a5187d385f",
+          "id": "21381e73-90d5-4556-bad3-ffc59e1fd8ba",
           "kind": "box",
           "x": 590,
           "y": 170,
@@ -75,7 +75,7 @@
           "description": ""
         },
         {
-          "id": "1aed66dc-465d-4b82-9d4d-d3824e3a1f23",
+          "id": "a54be9dc-5e66-4f94-837c-68027b2a754b",
           "kind": "box",
           "x": 780,
           "y": 170,
@@ -89,26 +89,26 @@
       ],
       "edges": [
         {
-          "from": "6d52ff63-0d47-452b-bcfa-77c289b767e5",
-          "to": "baffc604-1776-4f51-acbd-3bb50f1b6380"
+          "from": "c8e09bfb-9d2b-4583-a34d-1cb65c9f9abc",
+          "to": "7a18e79a-0023-45cb-b4a3-fbdd612baba2"
         },
         {
-          "from": "baffc604-1776-4f51-acbd-3bb50f1b6380",
-          "to": "9222ac4b-ca5f-4c7e-920f-f8c62990440e"
+          "from": "7a18e79a-0023-45cb-b4a3-fbdd612baba2",
+          "to": "b5882d77-3d39-4d99-a0c4-99b53a4a086b"
         },
         {
-          "from": "9222ac4b-ca5f-4c7e-920f-f8c62990440e",
-          "to": "6a9694d8-8444-4ebd-8b44-f5a5187d385f"
+          "from": "b5882d77-3d39-4d99-a0c4-99b53a4a086b",
+          "to": "21381e73-90d5-4556-bad3-ffc59e1fd8ba"
         },
         {
-          "from": "6a9694d8-8444-4ebd-8b44-f5a5187d385f",
-          "to": "1aed66dc-465d-4b82-9d4d-d3824e3a1f23"
+          "from": "21381e73-90d5-4556-bad3-ffc59e1fd8ba",
+          "to": "a54be9dc-5e66-4f94-837c-68027b2a754b"
         }
       ],
       "strokes": []
     },
     "huddle": {
-      "stage": 1,
+      "stage": 2,
       "returned": true,
       "goal": "",
       "personal": "",
