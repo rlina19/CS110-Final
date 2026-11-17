@@ -4,11 +4,12 @@
   "name": "Paulina Ramirez",
   "work": {
     "project": "A story worth playing",
-    "path": "simulation",
+    "path": "explore",
     "selected": [
-      "inventory",
       "access",
-      "branch"
+      "branch",
+      "external",
+      "save"
     ],
     "engine": "Unity / C#",
     "gitEvidence": "Created a file and opened it. Opened the file which is currently empty.",
