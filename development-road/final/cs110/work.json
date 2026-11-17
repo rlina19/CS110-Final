@@ -6,11 +6,9 @@
     "project": "A story worth playing",
     "path": "learning",
     "selected": [
-      "branch",
-      "modular",
-      "tests",
       "external",
-      "defense"
+      "access",
+      "dialogue"
     ],
     "engine": "Unity / C#",
     "gitEvidence": "Created a file and opened it. Opened the file which is currently empty.",
