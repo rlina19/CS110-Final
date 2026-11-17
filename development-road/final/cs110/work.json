@@ -1,5 +1,6 @@
 {
   "schema": "final-road-work-v1",
+  "payloadVersion": 2,
   "course": "CS110",
   "name": "Paulina Ramirez",
   "work": {
@@ -13,6 +14,7 @@
       "levels"
     ],
     "engine": "Unity / C#",
+    "environmentTest": true,
     "gitEvidence": "Created a file and opened it. Opened the file which is currently empty.",
     "ai": "Chat GPT",
     "aiVerify": "Inspect code and files by testing it",
@@ -20,6 +22,7 @@
     "plan": "",
     "availability": "",
     "service": "",
+    "supportMode": "closed",
     "role": "Developer",
     "board": {
       "nodes": [],
@@ -34,7 +37,70 @@
       "questions": ""
     },
     "evidence": {},
+    "dailyDraft": {
+      "meeting": "",
+      "worked": "",
+      "next": "",
+      "blocker": "",
+      "evidence": ""
+    },
+    "requirements": [
+      {
+        "id": "core",
+        "code": "R01",
+        "title": "Working project foundation",
+        "evidence": "Working source and build (60); authored program logic (35); meaningful tests (20); run guide and evidence map (20); individual explanation (15)."
+      },
+      {
+        "id": "external",
+        "code": "R13",
+        "title": "External playtest and revision",
+        "evidence": "Use consented feedback from at least three testers; document problems, fixes and retest evidence."
+      },
+      {
+        "id": "access",
+        "code": "R08",
+        "title": "Accessible controls and interface",
+        "evidence": "Demonstrate keyboard access, readable contrast, clear feedback and one user-tested accessibility improvement."
+      },
+      {
+        "id": "dialogue",
+        "code": "R06",
+        "title": "Reusable dialogue or interaction system",
+        "evidence": "Use data-driven interactions in more than one situation; show how new content can be added."
+      },
+      {
+        "id": "modular",
+        "code": "R09",
+        "title": "Modular architecture",
+        "evidence": "Show a module/class diagram, clear responsibilities and a change made without rewriting unrelated systems."
+      },
+      {
+        "id": "levels",
+        "code": "R15",
+        "title": "Three distinct levels or scenarios",
+        "evidence": "Deliver three complete, meaningfully different scenarios using shared systems and test each."
+      }
+    ],
     "tasks": [],
     "dailyNotes": []
-  }
+  },
+  "team": {
+    "name": "A story worth playing",
+    "mode": "solo",
+    "project": "A story worth playing",
+    "projectRepo": "",
+    "members": [
+      {
+        "name": "Paulina Ramirez",
+        "role": "Developer"
+      }
+    ]
+  },
+  "sharedPlan": {
+    "goal": "",
+    "plan": "",
+    "tasks": []
+  },
+  "completedReports": []
 }
