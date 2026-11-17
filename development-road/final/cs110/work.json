@@ -6,10 +6,10 @@
     "project": "A story worth playing",
     "path": "explore",
     "selected": [
-      "access",
-      "branch",
-      "external",
-      "save"
+      "save",
+      "inventory",
+      "search",
+      "access"
     ],
     "engine": "Unity / C#",
     "gitEvidence": "Created a file and opened it. Opened the file which is currently empty.",
