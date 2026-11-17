@@ -6,7 +6,9 @@
     "project": "A story worth playing",
     "path": "simulation",
     "selected": [
-      "inventory"
+      "inventory",
+      "access",
+      "branch"
     ],
     "engine": "Unity / C#",
     "gitEvidence": "Created a file and opened it. Opened the file which is currently empty.",
