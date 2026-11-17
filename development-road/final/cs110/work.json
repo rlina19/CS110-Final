@@ -25,8 +25,98 @@
     "supportMode": "closed",
     "role": "Developer",
     "board": {
-      "nodes": [],
-      "edges": [],
+      "nodes": [
+        {
+          "id": "c70a1611-6247-4f4a-8d5f-303aa7c4312a",
+          "kind": "box",
+          "x": 0,
+          "y": 65.33203125000023,
+          "w": 150,
+          "h": 70,
+          "text": "Name this block",
+          "owner": "",
+          "due": "",
+          "description": ""
+        },
+        {
+          "id": "6d52ff63-0d47-452b-bcfa-77c289b767e5",
+          "kind": "box",
+          "x": 20,
+          "y": 170,
+          "w": 150,
+          "h": 70,
+          "text": "Goal: working project",
+          "owner": "",
+          "due": "",
+          "description": ""
+        },
+        {
+          "id": "baffc604-1776-4f51-acbd-3bb50f1b6380",
+          "kind": "box",
+          "x": 210,
+          "y": 170,
+          "w": 150,
+          "h": 70,
+          "text": "Inputs: code + assets",
+          "owner": "",
+          "due": "",
+          "description": ""
+        },
+        {
+          "id": "9222ac4b-ca5f-4c7e-920f-f8c62990440e",
+          "kind": "box",
+          "x": 400,
+          "y": 170,
+          "w": 150,
+          "h": 70,
+          "text": "Build: core interaction",
+          "owner": "",
+          "due": "",
+          "description": ""
+        },
+        {
+          "id": "6a9694d8-8444-4ebd-8b44-f5a5187d385f",
+          "kind": "box",
+          "x": 590,
+          "y": 170,
+          "w": 150,
+          "h": 70,
+          "text": "Test: expected behavior",
+          "owner": "",
+          "due": "",
+          "description": ""
+        },
+        {
+          "id": "1aed66dc-465d-4b82-9d4d-d3824e3a1f23",
+          "kind": "box",
+          "x": 780,
+          "y": 170,
+          "w": 150,
+          "h": 70,
+          "text": "Deliver: source + evidence",
+          "owner": "",
+          "due": "",
+          "description": ""
+        }
+      ],
+      "edges": [
+        {
+          "from": "6d52ff63-0d47-452b-bcfa-77c289b767e5",
+          "to": "baffc604-1776-4f51-acbd-3bb50f1b6380"
+        },
+        {
+          "from": "baffc604-1776-4f51-acbd-3bb50f1b6380",
+          "to": "9222ac4b-ca5f-4c7e-920f-f8c62990440e"
+        },
+        {
+          "from": "9222ac4b-ca5f-4c7e-920f-f8c62990440e",
+          "to": "6a9694d8-8444-4ebd-8b44-f5a5187d385f"
+        },
+        {
+          "from": "6a9694d8-8444-4ebd-8b44-f5a5187d385f",
+          "to": "1aed66dc-465d-4b82-9d4d-d3824e3a1f23"
+        }
+      ],
       "strokes": []
     },
     "huddle": {
