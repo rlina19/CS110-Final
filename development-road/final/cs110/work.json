@@ -8,7 +8,9 @@
     "selected": [
       "external",
       "access",
-      "dialogue"
+      "dialogue",
+      "modular",
+      "levels"
     ],
     "engine": "Unity / C#",
     "gitEvidence": "Created a file and opened it. Opened the file which is currently empty.",
@@ -25,8 +27,8 @@
       "strokes": []
     },
     "huddle": {
-      "stage": 0,
-      "returned": false,
+      "stage": 1,
+      "returned": true,
       "goal": "",
       "personal": "",
       "questions": ""
