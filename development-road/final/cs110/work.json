@@ -5,7 +5,7 @@
   "name": "Paulina Ramirez",
   "work": {
     "project": "A story worth playing",
-    "path": "desktop",
+    "path": "explore",
     "selected": [
       "external",
       "access",
@@ -163,7 +163,22 @@
     "tasks": [],
     "dailyNotes": []
   },
-  "team": null,
-  "sharedPlan": null,
+  "team": {
+    "name": "A story worth playing",
+    "mode": "solo",
+    "project": "A story worth playing",
+    "projectRepo": "",
+    "members": [
+      {
+        "name": "Paulina Ramirez",
+        "role": "Developer"
+      }
+    ]
+  },
+  "sharedPlan": {
+    "goal": "",
+    "plan": "",
+    "tasks": []
+  },
   "completedReports": []
 }
