@@ -10,8 +10,8 @@
       "access",
       "external",
       "save",
-      "branch",
-      "dialogue"
+      "settings",
+      "inventory"
     ],
     "engine": "Unity / C#",
     "environmentTest": true,
@@ -148,16 +148,16 @@
         "evidence": "Save meaningful state; close and reopen the program; demonstrate correct restoration and invalid-file handling."
       },
       {
-        "id": "branch",
-        "code": "R03",
-        "title": "Branching story or mission state",
-        "evidence": "Demonstrate at least two meaningful outcomes, their conditions and a state-transition test."
+        "id": "settings",
+        "code": "R04",
+        "title": "Settings that persist",
+        "evidence": "Provide useful settings, validate changes, save them and demonstrate restoration. This must extend beyond the same progress data."
       },
       {
-        "id": "dialogue",
-        "code": "R06",
-        "title": "Reusable dialogue or interaction system",
-        "evidence": "Use data-driven interactions in more than one situation; show how new content can be added."
+        "id": "inventory",
+        "code": "R05",
+        "title": "Inventory or structured collection",
+        "evidence": "Add, remove and inspect structured items. Test limits and invalid actions."
       }
     ],
     "tasks": [],
