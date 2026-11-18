@@ -11,7 +11,10 @@
       "access",
       "dialogue",
       "modular",
-      "levels"
+      "levels",
+      "branch",
+      "inventory",
+      "tests"
     ],
     "engine": "Unity / C#",
     "environmentTest": true,
@@ -158,6 +161,24 @@
         "code": "R15",
         "title": "Three distinct levels or scenarios",
         "evidence": "Deliver three complete, meaningfully different scenarios using shared systems and test each."
+      },
+      {
+        "id": "branch",
+        "code": "R03",
+        "title": "Branching story or mission state",
+        "evidence": "Demonstrate at least two meaningful outcomes, their conditions and a state-transition test."
+      },
+      {
+        "id": "inventory",
+        "code": "R05",
+        "title": "Inventory or structured collection",
+        "evidence": "Add, remove and inspect structured items. Test limits and invalid actions."
+      },
+      {
+        "id": "tests",
+        "code": "R10",
+        "title": "Automated regression tests",
+        "evidence": "Run meaningful normal, boundary and failure tests. Show a defect the suite detects."
       }
     ],
     "tasks": [],
