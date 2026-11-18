@@ -163,22 +163,7 @@
     "tasks": [],
     "dailyNotes": []
   },
-  "team": {
-    "name": "A story worth playing",
-    "mode": "solo",
-    "project": "A story worth playing",
-    "projectRepo": "",
-    "members": [
-      {
-        "name": "Paulina Ramirez",
-        "role": "Developer"
-      }
-    ]
-  },
-  "sharedPlan": {
-    "goal": "",
-    "plan": "",
-    "tasks": []
-  },
+  "team": null,
+  "sharedPlan": null,
   "completedReports": []
 }
