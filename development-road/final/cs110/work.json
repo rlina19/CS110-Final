@@ -11,7 +11,8 @@
       "external",
       "save",
       "settings",
-      "inventory"
+      "inventory",
+      "dialogue"
     ],
     "engine": "Unity / C#",
     "environmentTest": true,
@@ -117,8 +118,8 @@
     "evidence": {},
     "dailyDraft": {
       "meeting": "CS110-2026-11-17",
-      "worked": "",
-      "next": "",
+      "worked": "I developed the initial plan for my exploration and puzzle game. I reviewed the available project requirements and planned a 500 point selection, identifying features such as player interactions, inventory, story progression, and saving game progress. I also considered a storyline for my game and have begun to plan tasks.",
+      "next": "Next I will finalize the game's mai backstory and player objective. Define the first playable puzzle, and the interactions needed to begin developing the prototype in Unity.",
       "blocker": "",
       "evidence": ""
     },
@@ -158,10 +159,26 @@
         "code": "R05",
         "title": "Inventory or structured collection",
         "evidence": "Add, remove and inspect structured items. Test limits and invalid actions."
+      },
+      {
+        "id": "dialogue",
+        "code": "R06",
+        "title": "Reusable dialogue or interaction system",
+        "evidence": "Use data-driven interactions in more than one situation; show how new content can be added."
       }
     ],
     "tasks": [],
-    "dailyNotes": []
+    "dailyNotes": [
+      {
+        "date": "2026-11-17",
+        "revision": 1,
+        "worked": "I developed the initial plan for my exploration and puzzle game. I reviewed the available project requirements and planned a 500 point selection, identifying features such as player interactions, inventory, story progression, and saving game progress. I also considered a storyline for my game and have begun to plan tasks.",
+        "next": "Next I will finalize the game's mai backstory and player objective. Define the first playable puzzle, and the interactions needed to begin developing the prototype in Unity.",
+        "blocker": "",
+        "evidence": "",
+        "tasks": []
+      }
+    ]
   },
   "team": {
     "name": "A story worth playing",
