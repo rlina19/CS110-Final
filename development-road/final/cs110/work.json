@@ -20,7 +20,7 @@
     "ai": "Chat GPT",
     "aiVerify": "Inspect code and files by testing it",
     "notes": "I know how to use Visual Studio, Ive used Unity, I've used C#",
-    "plan": "Setting: A remote town surrounded by forests and abandoned facilities.\n\nGenre: Exploration, mystery, and puzzle-solving.\n\nStory: A mysterious blizzard affects the town, causing unusual environmental contamination and strange creatures to appear.\n\nObjective: Explore the affected regions, solve puzzles to progress, and uncover the source of the phenomenon.\n\nGameplay: Players can walk, sprint, interact with objects, open and close their inventory, and equip useful gear.\n\nProgression: Each region contains clues, obstacles, and puzzles that must be completed to access the next area.\n- 3 stages with different challenges and puzzles\n\nInventory: Players collect useful items, equipment, and clues throughout their exploration.\n\nReasoning: These decisions create a connected gameplay experience where exploration, puzzles, and story progression work together.",
+    "plan": "Setting: A remote town surrounded by forests\n\nStory: A mysterious blizzard affects the town, causing unusual environmental contamination and strange creatures to appear.\n\nObjective: Explore the affected region, solve puzzles to progress\n\nGameplay: Players can walk, sprint, interact with objects, open and close their inventory, and equip useful gear.\n\nProgression: Each stage contains clues, and puzzles that must be completed to access the next area.\n\nInventory: Players collect useful items, equipment, and clues throughout their exploration.\n\nReasoning: These decisions create a connected gameplay experience where exploration, puzzles, and story progression work together.",
     "availability": "",
     "service": "",
     "supportMode": "closed",
@@ -111,7 +111,7 @@
     "huddle": {
       "stage": 2,
       "returned": true,
-      "goal": "",
+      "goal": "Create a playable exploration and puzzle game set in a remote town affected by a mysterious blizzard. The player will explore different areas, interact with the environment, collect items, solve puzzles.  The smallest playable result will include one starting town area, basic player movement, interactive objects, an inventory, and at least one puzzle.",
       "personal": "",
       "questions": ""
     },
