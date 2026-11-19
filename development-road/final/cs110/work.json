@@ -5,13 +5,13 @@
   "name": "Paulina Ramirez",
   "work": {
     "project": "A story worth playing",
-    "path": "learning",
+    "path": "explore",
     "selected": [
-      "external",
       "access",
-      "dialogue",
-      "modular",
-      "levels"
+      "external",
+      "save",
+      "settings",
+      "inventory"
     ],
     "engine": "Unity / C#",
     "environmentTest": true,
@@ -25,12 +25,90 @@
     "supportMode": "closed",
     "role": "Developer",
     "board": {
-      "nodes": [],
-      "edges": [],
+      "nodes": [
+        {
+          "id": "c8e09bfb-9d2b-4583-a34d-1cb65c9f9abc",
+          "kind": "box",
+          "x": 0,
+          "y": 53.3333333333328,
+          "w": 157.50000000000023,
+          "h": 69.48567708333417,
+          "text": "Goal: working project:Run a workingprogram that",
+          "owner": "",
+          "due": "",
+          "description": ""
+        },
+        {
+          "id": "7a18e79a-0023-45cb-b4a3-fbdd612baba2",
+          "kind": "box",
+          "x": 210,
+          "y": 170,
+          "w": 150,
+          "h": 70,
+          "text": "Inputs: code + assets",
+          "owner": "",
+          "due": "",
+          "description": ""
+        },
+        {
+          "id": "b5882d77-3d39-4d99-a0c4-99b53a4a086b",
+          "kind": "box",
+          "x": 400,
+          "y": 170,
+          "w": 150,
+          "h": 70,
+          "text": "Build: core interaction",
+          "owner": "",
+          "due": "",
+          "description": ""
+        },
+        {
+          "id": "21381e73-90d5-4556-bad3-ffc59e1fd8ba",
+          "kind": "box",
+          "x": 590,
+          "y": 170,
+          "w": 150,
+          "h": 70,
+          "text": "Test: expected behavior",
+          "owner": "",
+          "due": "",
+          "description": ""
+        },
+        {
+          "id": "a54be9dc-5e66-4f94-837c-68027b2a754b",
+          "kind": "box",
+          "x": 780,
+          "y": 170,
+          "w": 150,
+          "h": 70,
+          "text": "Deliver: source + evidence",
+          "owner": "",
+          "due": "",
+          "description": ""
+        }
+      ],
+      "edges": [
+        {
+          "from": "c8e09bfb-9d2b-4583-a34d-1cb65c9f9abc",
+          "to": "7a18e79a-0023-45cb-b4a3-fbdd612baba2"
+        },
+        {
+          "from": "7a18e79a-0023-45cb-b4a3-fbdd612baba2",
+          "to": "b5882d77-3d39-4d99-a0c4-99b53a4a086b"
+        },
+        {
+          "from": "b5882d77-3d39-4d99-a0c4-99b53a4a086b",
+          "to": "21381e73-90d5-4556-bad3-ffc59e1fd8ba"
+        },
+        {
+          "from": "21381e73-90d5-4556-bad3-ffc59e1fd8ba",
+          "to": "a54be9dc-5e66-4f94-837c-68027b2a754b"
+        }
+      ],
       "strokes": []
     },
     "huddle": {
-      "stage": 1,
+      "stage": 2,
       "returned": true,
       "goal": "",
       "personal": "",
@@ -38,9 +116,9 @@
     },
     "evidence": {},
     "dailyDraft": {
-      "meeting": "",
-      "worked": "",
-      "next": "",
+      "meeting": "CS110-2026-11-17",
+      "worked": "I developed the initial plan for my exploration and puzzle game. I reviewed the available project requirements and planned a 500 point selection, identifying features such as player interactions, inventory, story progression, and saving game progress. I also considered a storyline for my game and have begun to plan tasks.",
+      "next": "Next I will finalize the game's mai backstory and player objective. Define the first playable puzzle, and the interactions needed to begin developing the prototype in Unity.",
       "blocker": "",
       "evidence": ""
     },
@@ -52,38 +130,48 @@
         "evidence": "Working source and build (60); authored program logic (35); meaningful tests (20); run guide and evidence map (20); individual explanation (15)."
       },
       {
-        "id": "external",
-        "code": "R13",
-        "title": "External playtest and revision",
-        "evidence": "Use consented feedback from at least three testers; document problems, fixes and retest evidence."
-      },
-      {
         "id": "access",
         "code": "R08",
         "title": "Accessible controls and interface",
         "evidence": "Demonstrate keyboard access, readable contrast, clear feedback and one user-tested accessibility improvement."
       },
       {
-        "id": "dialogue",
-        "code": "R06",
-        "title": "Reusable dialogue or interaction system",
-        "evidence": "Use data-driven interactions in more than one situation; show how new content can be added."
+        "id": "external",
+        "code": "R13",
+        "title": "External playtest and revision",
+        "evidence": "Use consented feedback from at least three testers; document problems, fixes and retest evidence."
       },
       {
-        "id": "modular",
-        "code": "R09",
-        "title": "Modular architecture",
-        "evidence": "Show a module/class diagram, clear responsibilities and a change made without rewriting unrelated systems."
+        "id": "save",
+        "code": "R02",
+        "title": "Save and restore progress",
+        "evidence": "Save meaningful state; close and reopen the program; demonstrate correct restoration and invalid-file handling."
       },
       {
-        "id": "levels",
-        "code": "R15",
-        "title": "Three distinct levels or scenarios",
-        "evidence": "Deliver three complete, meaningfully different scenarios using shared systems and test each."
+        "id": "settings",
+        "code": "R04",
+        "title": "Settings that persist",
+        "evidence": "Provide useful settings, validate changes, save them and demonstrate restoration. This must extend beyond the same progress data."
+      },
+      {
+        "id": "inventory",
+        "code": "R05",
+        "title": "Inventory or structured collection",
+        "evidence": "Add, remove and inspect structured items. Test limits and invalid actions."
       }
     ],
     "tasks": [],
-    "dailyNotes": []
+    "dailyNotes": [
+      {
+        "date": "2026-11-17",
+        "revision": 1,
+        "worked": "I developed the initial plan for my exploration and puzzle game. I reviewed the available project requirements and planned a 500 point selection, identifying features such as player interactions, inventory, story progression, and saving game progress. I also considered a storyline for my game and have begun to plan tasks.",
+        "next": "Next I will finalize the game's mai backstory and player objective. Define the first playable puzzle, and the interactions needed to begin developing the prototype in Unity.",
+        "blocker": "",
+        "evidence": "",
+        "tasks": []
+      }
+    ]
   },
   "team": {
     "name": "A story worth playing",
