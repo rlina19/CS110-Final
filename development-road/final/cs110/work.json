@@ -20,7 +20,7 @@
     "ai": "Chat GPT",
     "aiVerify": "Inspect code and files by testing it",
     "notes": "I know how to use Visual Studio, Ive used Unity, I've used C#",
-    "plan": "Story:\nSetting:\nOpening sceene\n---> player enters the game mode and can move around. enters\n---> puzzles\n----> exploration",
+    "plan": "Story:\nSetting: a town\nOpening sceene\n---> player enters the game mode and can move around. enters\n---> puzzles\n----> exploration\n----> features monsters to escape,",
     "availability": "",
     "service": "",
     "supportMode": "closed",
