@@ -7,11 +7,12 @@
     "project": "A story worth playing",
     "path": "explore",
     "selected": [
-      "access",
       "external",
       "save",
       "settings",
-      "inventory"
+      "inventory",
+      "search",
+      "access"
     ],
     "engine": "Unity / C#",
     "environmentTest": true,
@@ -19,7 +20,7 @@
     "ai": "Chat GPT",
     "aiVerify": "Inspect code and files by testing it",
     "notes": "I know how to use Visual Studio, Ive used Unity, I've used C#",
-    "plan": "",
+    "plan": "Story:\nSettings: a town, \nOpening sceene\n---> player enters the game mode and can move around. enters\n---> puzzles\n----> exploration\n----> game features: walk, sprint, open/close inventory, equip gear (weapons? etc), interact w environment. unlock doors, pick up items,  \n----> player goal: explore region,solve puzzles to move to the next stage,\n---->mysterious blizzard , enters new area area is contaminated, has unusual monsters lurking, abandonded  facility.\n---->  f",
     "availability": "",
     "service": "",
     "supportMode": "closed",
@@ -130,12 +131,6 @@
         "evidence": "Working source and build (60); authored program logic (35); meaningful tests (20); run guide and evidence map (20); individual explanation (15)."
       },
       {
-        "id": "access",
-        "code": "R08",
-        "title": "Accessible controls and interface",
-        "evidence": "Demonstrate keyboard access, readable contrast, clear feedback and one user-tested accessibility improvement."
-      },
-      {
         "id": "external",
         "code": "R13",
         "title": "External playtest and revision",
@@ -158,6 +153,18 @@
         "code": "R05",
         "title": "Inventory or structured collection",
         "evidence": "Add, remove and inspect structured items. Test limits and invalid actions."
+      },
+      {
+        "id": "search",
+        "code": "R07",
+        "title": "Search, sort and filter",
+        "evidence": "Demonstrate useful search/filter combinations and empty/error states over a real collection."
+      },
+      {
+        "id": "access",
+        "code": "R08",
+        "title": "Accessible controls and interface",
+        "evidence": "Demonstrate keyboard access, readable contrast, clear feedback and one user-tested accessibility improvement."
       }
     ],
     "tasks": [],
