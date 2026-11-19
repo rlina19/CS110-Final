@@ -11,8 +11,7 @@
       "external",
       "save",
       "settings",
-      "inventory",
-      "dialogue"
+      "inventory"
     ],
     "engine": "Unity / C#",
     "environmentTest": true,
@@ -159,12 +158,6 @@
         "code": "R05",
         "title": "Inventory or structured collection",
         "evidence": "Add, remove and inspect structured items. Test limits and invalid actions."
-      },
-      {
-        "id": "dialogue",
-        "code": "R06",
-        "title": "Reusable dialogue or interaction system",
-        "evidence": "Use data-driven interactions in more than one situation; show how new content can be added."
       }
     ],
     "tasks": [],
