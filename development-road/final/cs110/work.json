@@ -20,7 +20,7 @@
     "ai": "Chat GPT",
     "aiVerify": "Inspect code and files by testing it",
     "notes": "I know how to use Visual Studio, Ive used Unity, I've used C#",
-    "plan": "Story:\nSetting: a town\nOpening sceene\n---> player enters the game mode and can move around. enters\n---> puzzles\n----> exploration\n----> game features: walk, sprint, open/close inventory, equip gear (weapons? etc), interact w enviornment\n----> player goal: explore region,solve puzzles to move to the next stage,\n---->mysterious blizzard , enters new area where the player needs to escape",
+    "plan": "Story:\nSettings: a town, \nOpening sceene\n---> player enters the game mode and can move around. enters\n---> puzzles\n----> exploration\n----> game features: walk, sprint, open/close inventory, equip gear (weapons? etc), interact w environment\n----> player goal: explore region,solve puzzles to move to the next stage,\n---->mysterious blizzard , enters new area area is contaminated, has unusual monsters lurking and",
     "availability": "",
     "service": "",
     "supportMode": "closed",
