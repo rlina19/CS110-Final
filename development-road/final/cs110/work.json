@@ -117,9 +117,9 @@
     },
     "evidence": {},
     "dailyDraft": {
-      "meeting": "CS110-2026-11-17",
-      "worked": "I developed the initial plan for my exploration and puzzle game. I reviewed the available project requirements and planned a 500 point selection, identifying features such as player interactions, inventory, story progression, and saving game progress. I also considered a storyline for my game and have begun to plan tasks.",
-      "next": "Next I will finalize the game's mai backstory and player objective. Define the first playable puzzle, and the interactions needed to begin developing the prototype in Unity.",
+      "meeting": "CS110-2026-11-19",
+      "worked": "Today I worked on developing the story, the decision and planning, and the mission. I planned the gameplay mechanics",
+      "next": "",
       "blocker": "",
       "evidence": ""
     },
