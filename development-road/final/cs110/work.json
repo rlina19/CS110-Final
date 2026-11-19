@@ -20,7 +20,7 @@
     "ai": "Chat GPT",
     "aiVerify": "Inspect code and files by testing it",
     "notes": "I know how to use Visual Studio, Ive used Unity, I've used C#",
-    "plan": "",
+    "plan": "Setting: A remote town surrounded by forests and abandoned facilities.\n\nGenre: Exploration, mystery, and puzzle-solving.\n\nStory: A mysterious blizzard affects the town, causing unusual environmental contamination and strange creatures to appear.\n\nObjective: Explore the affected regions, solve puzzles to progress, and uncover the source of the phenomenon.\n\nGameplay: Players can walk, sprint, interact with objects, open and close their inventory, and equip useful gear.\n\nProgression: Each region contains clues, obstacles, and puzzles that must be completed to access the next area.\n- 3 stages with different challenges and puzzles\n\nInventory: Players collect useful items, equipment, and clues throughout their exploration.\n\nReasoning: These decisions create a connected gameplay experience where exploration, puzzles, and story progression work together.",
     "availability": "",
     "service": "",
     "supportMode": "closed",
@@ -111,7 +111,7 @@
     "huddle": {
       "stage": 2,
       "returned": true,
-      "goal": "Setting: A remote town surrounded by forests and abandoned facilities.  Genre: Exploration, mystery, and puzzle-solving.  Story: A mysterious blizzard affects the town, causing unusual environmental contamination and strange creatures to appear.  Objective: Explore the affected regions, solve puzzles to progress, and uncover the source of the phenomenon.  Gameplay: Players can walk, sprint, interact with objects, open and close their inventory, and equip useful gear.  Progression: Each region contains clues, obstacles, and puzzles that must be completed to access the next area.  Inventory: Players collect useful items, equipment, and clues throughout their exploration.  Reasoning: These decisions create a connected gameplay experience where exploration, puzzles, and story progression work together.",
+      "goal": "",
       "personal": "",
       "questions": ""
     },
