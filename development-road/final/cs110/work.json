@@ -31,7 +31,7 @@
           "id": "c8e09bfb-9d2b-4583-a34d-1cb65c9f9abc",
           "kind": "box",
           "x": 0,
-          "y": 53.3333333333328,
+          "y": 56.4179821789358,
           "w": 157.50000000000023,
           "h": 69.48567708333417,
           "text": "Goal: working project:Run a workingprogram that",
@@ -118,8 +118,8 @@
     "evidence": {},
     "dailyDraft": {
       "meeting": "CS110-2026-11-19",
-      "worked": "Today I worked on developing the story, the decision and planning, and the mission. I planned the gameplay mechanics",
-      "next": "",
+      "worked": "Today I worked on developing the story, the decision and planning, and the mission. Planned the gameplay mechanics, including player movement, sprinting, inventory, equipment, environmental interactions, and puzzles.\nOutlined the game's development pipeline, including required inputs, building, testing, and storyline/goals.",
+      "next": "Plan the different areas and their progression.\nIdentify the 3D assets and resources needed.\nBegin implementing the basic 3D environment, player movement, and camera controls.\nEstablish the first interactive objects and puzzle.",
       "blocker": "",
       "evidence": ""
     },
@@ -174,6 +174,15 @@
         "revision": 1,
         "worked": "I developed the initial plan for my exploration and puzzle game. I reviewed the available project requirements and planned a 500 point selection, identifying features such as player interactions, inventory, story progression, and saving game progress. I also considered a storyline for my game and have begun to plan tasks.",
         "next": "Next I will finalize the game's mai backstory and player objective. Define the first playable puzzle, and the interactions needed to begin developing the prototype in Unity.",
+        "blocker": "",
+        "evidence": "",
+        "tasks": []
+      },
+      {
+        "date": "2026-11-19",
+        "revision": 1,
+        "worked": "Today I worked on developing the story, the decision and planning, and the mission. Planned the gameplay mechanics, including player movement, sprinting, inventory, equipment, environmental interactions, and puzzles.\nOutlined the game's development pipeline, including required inputs, building, testing, and storyline/goals.",
+        "next": "Plan the different areas and their progression.\nIdentify the 3D assets and resources needed.\nBegin implementing the basic 3D environment, player movement, and camera controls.\nEstablish the first interactive objects and puzzle.",
         "blocker": "",
         "evidence": "",
         "tasks": []
